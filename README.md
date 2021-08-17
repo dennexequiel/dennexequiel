@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denn Agustin.
-- 👀 I’m interested in creating apps, music, and poetry. 
+- 👀 I’m interested in music, poetry, and creating apps. 
 - 🌱 I’m currently learning .NET Core.
 - 📫 How to reach me ? Send me a message at dennexequiel@gmail.com.
 
