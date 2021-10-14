@@ -1,4 +1,5 @@
 # >Hello There!_
+
 I'm Denn Agustin, a Full-Stack Software Engineer who loves coffee, music, poetry, software development, and anime ツ 🤍. 
 
 I'm fueled by my core values, such as consistency, good humor, perseverance, respect, and commitment. I am a 'lifelong learner,' eager to build myself more in personal and professional development.
@@ -7,9 +8,8 @@ Additionally, I believe that working smarter is the key to success, and purpose 
 
 If you would like to contact me or have any questions, send an email at dennexequiel@gmail.com or connect with me using the links below. I'd love to hear from you.
 
-<br><br>
+# Let’s Connect
 
-# Connect With Me
 <a href="mailto:dennexequiel@gmail.com"> 
     <img src="https://img.shields.io/badge/%2Fdennexequiel@gmail.com-Gmail-%23EA4335?style=flat-square&logo=gmail" alt="dennexequiel@gmail.com"/>
 </a>
@@ -23,9 +23,9 @@ If you would like to contact me or have any questions, send an email at dennexeq
     <img src="https://img.shields.io/badge/%2Fdennexequiel-Trailblazer.me-%2317A0DB?style=flat-square&logo=salesforce" alt="dennexequiel"/>
 </a>
 
-<br><br>
 
 # Tools and Technologies
+
 #### Front-End
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](#)
@@ -70,8 +70,6 @@ If you would like to contact me or have any questions, send an email at dennexeq
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)](#)
 
 [![Salesforce](https://img.shields.io/badge/-Salesforce-white?style=flat-square&logo=salesforce&logoColor=%2317A0DB)](#)
-
-<br><br>
 
 ## Support Me
 If you want to support me, you can buy me a coffee. I will use the funds to buy a PC to help me create free online courses about developing applications.
