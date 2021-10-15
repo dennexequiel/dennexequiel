@@ -1,12 +1,13 @@
-## >Hello There!_
+![Let's make lives easier](./Banner.png)
 
+## >Hello There!_
 I'm Denn Agustin, a Full-Stack Software Engineer who loves coffee, music, poetry, software development, and anime ツ 🤍. 
 
 I'm fueled by my core values, such as consistency, good humor, perseverance, respect, and commitment. I am a 'lifelong learner,' eager to build myself more in personal and professional development.
 
 Additionally, I believe that working smarter is the key to success, and purpose fuels passion.
 
-If you would like to contact me or have any questions, send an email at dennexequiel@gmail.com or connect with me using the links below. I'd love to hear from you.
+If you want to contact me or have any questions, connect with me using the buttons below. I'd love to hear from you.
 
 
 
@@ -72,5 +73,3 @@ If you want to support me, you can buy me a coffee using the buttons below. I wi
 <a href="https://www.paypal.com/donate?hosted_button_id=W967UQ5XBG6XE"> 
     <img src="https://www.paypalobjects.com/webstatic/en_AU/i/buttons/btn_paywith_primary_m.png" height="40" width="180" alt="Buy Denn a coffee using paypal" />
 </a>
-
-
