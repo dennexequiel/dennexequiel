@@ -66,11 +66,11 @@ If you would like to contact me or have any questions, send an email at dennexeq
 If you want to support me, you can buy me a coffee using the buttons below. I will use the funds to buy a PC to help me create free online courses about developing applications. Thank you so much!
 
 <a href="https://www.buymeacoffee.com/dennexequiel"> 
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="dennexequiel" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="Buy Denn a coffee" />
 </a>
 
 <a href="https://www.paypal.com/donate?hosted_button_id=W967UQ5XBG6XE"> 
-    <img src="https://www.paypalobjects.com/webstatic/en_AU/i/buttons/btn_paywith_primary_m.png" height="40" width="180" alt="dennexequiel" />
+    <img src="https://www.paypalobjects.com/webstatic/en_AU/i/buttons/btn_paywith_primary_m.png" height="40" width="180" alt="Buy Denn a coffee using paypal" />
 </a>
 
 
