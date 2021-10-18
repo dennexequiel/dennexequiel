@@ -50,12 +50,13 @@ If you want to contact me or have any questions, connect with me using the butto
 [![Rider](https://img.shields.io/badge/-Rider-E5E5E5?style=flat-square&logo=rider&logoColor=black)](#)
 
 ###### Others
-[![Jira](https://img.shields.io/badge/-Jira-%230052CC%20?style=flat-square&logo=jira-software&logoColor=white)](#)
-[![Trello](https://img.shields.io/badge/-Trello-%230052CC%20?style=flat-square&logo=trello&logoColor=white)](#)
-[![InVision](https://img.shields.io/badge/-InVision-E5E5E5?style=flat-square&logo=invision&logoColor=%23ff3366)](#)
+[![Postman](https://img.shields.io/badge/-POSTMAN-2e2e2e?style=flat-square&logo=postman)](#)
 [![Git](https://img.shields.io/badge/-Git-E5E5E5?style=flat-square&logo=git)](#)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-2e2e2e?style=flat-square&logo=github)](#)
+[![Jira](https://img.shields.io/badge/-Jira-%230052CC%20?style=flat-square&logo=jira-software&logoColor=white)](#)
+[![Trello](https://img.shields.io/badge/-Trello-%230052CC%20?style=flat-square&logo=trello&logoColor=white)](#)
+[![InVision](https://img.shields.io/badge/-InVision-E5E5E5?style=flat-square&logo=invision&logoColor=%23ff3366)](#)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)](#)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%23008AD7%20?style=flat-square&logo=microsoft-azure)](#)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)](#)
