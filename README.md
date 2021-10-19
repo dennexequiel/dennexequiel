@@ -3,7 +3,7 @@
 ## >Hello There!_
 I'm Denn Agustin, a Full Stack Software Engineer who loves coffee, music, poetry, software development, and anime ツ 🤍. 
 
-I'm fueled by my core values — consistency, good humor, perseverance, respect, and commitment. I am a learner, continuously expanding my knowledge, and eager to build myself more personally and professionally.
+I'm fueled by my core values—consistency, good humor, perseverance, respect, and commitment. I am a learner, continuously expanding my knowledge, and eager to build myself more personally and professionally.
 
 Additionally, I believe that working smarter is the key to success, and purpose fuels passion.
 
