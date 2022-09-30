@@ -38,6 +38,7 @@ If you want to contact me or have any questions, connect with me using the butto
 [![PHP](https://img.shields.io/badge/-PHP-%23474A8A?style=flat-square&logo=php&logoColor=white)](#)
 [![Laravel](https://img.shields.io/badge/-Laravel-%23fb503b%20?style=flat-square&logo=laravel&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-2e2e2e?style=flat-square&logo=Node.js)](#)
+[![Python](https://img.shields.io/badge/-Python-ffe873?style=flat-square&logo=python)](#)
 
 ###### Database
 [![SQLite](https://img.shields.io/badge/-SQLite-E5E5E5?style=flat-square&logo=sqlite&logoColor=%23044a64)](#)
