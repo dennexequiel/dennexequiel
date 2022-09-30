@@ -29,6 +29,7 @@ If you want to contact me or have any questions, connect with me using the butto
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](#)
 [![jQuery](https://img.shields.io/badge/-jQuery-E5E5E5?style=flat-square&logo=jquery&logoColor=%230769AD)](#)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-2e2e2e?style=flat-square&logo=vue.js)](#)
+[![Alpine.js](https://img.shields.io/badge/-Alpine.js-E5E5E5?style=flat-square&logo=alpine.js&logoColor=2d3441)](#)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)](#)
 
 ###### Back-End
@@ -41,26 +42,28 @@ If you want to contact me or have any questions, connect with me using the butto
 ###### Database
 [![SQLite](https://img.shields.io/badge/-SQLite-E5E5E5?style=flat-square&logo=sqlite&logoColor=%23044a64)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-2e2e2e?style=flat-square&logo=mysql&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E5E5E5?style=flat-square&logo=PostgreSQL&logoColor=%230769AD)](#)
 [![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](#)
 
 ###### IDE & Code Editor
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%238E44AD%20?style=flat-square&logo=visual-studio&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#)
-[![PhpStorm](https://img.shields.io/badge/-PhpStorm-E5E5E5?style=flat-square&logo=phpstorm&logoColor=black)](#)
-[![Rider](https://img.shields.io/badge/-Rider-E5E5E5?style=flat-square&logo=rider&logoColor=black)](#)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-161616?style=flat-square&logo=pycharm&logoColor=eef64e)](#)
 
 ###### Others
-[![Postman](https://img.shields.io/badge/-POSTMAN-2e2e2e?style=flat-square&logo=postman)](#)
 [![Git](https://img.shields.io/badge/-Git-E5E5E5?style=flat-square&logo=git)](#)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-2e2e2e?style=flat-square&logo=github)](#)
 [![Jira](https://img.shields.io/badge/-Jira-%230052CC%20?style=flat-square&logo=jira-software&logoColor=white)](#)
 [![Trello](https://img.shields.io/badge/-Trello-%230052CC%20?style=flat-square&logo=trello&logoColor=white)](#)
-[![InVision](https://img.shields.io/badge/-InVision-E5E5E5?style=flat-square&logo=invision&logoColor=%23ff3366)](#)
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)](#)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%23008AD7%20?style=flat-square&logo=microsoft-azure)](#)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)](#)
 [![Salesforce](https://img.shields.io/badge/-Salesforce-E5E5E5?style=flat-square&logo=salesforce&logoColor=%2317A0DB)](#)
+
+
+
+## My Holopin Board
+[![@dennexequiel's Holopin board](https://holopin.io/api/user/board?user=dennexequiel)](https://holopin.io/@dennexequiel)
 
 
 
