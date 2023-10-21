@@ -67,7 +67,7 @@ If you want to contact me or have any questions, connect with me using the butto
 
 
 ## Support Me
-If you want to support me, you can buy me a coffee using the button below. I will use the funds to help me create free online courses about developing applications. Thank you so much!
+If you want to support me, you can buy me a coffee using the button below. Thank you so much!
 
 <a href="https://www.buymeacoffee.com/dennexequiel"> 
     <img src="./buymeacofee.svg" height="55" width="" alt="Buy Denn a Coffee"/>
