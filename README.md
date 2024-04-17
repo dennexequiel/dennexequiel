@@ -1,4 +1,4 @@
-![Let's make lives easier](./new_banner.png)
+![Let's make lives easier](./banner.png)
 
 ## >Hello There!_
 I'm Denn Agustin, a Full Stack Engineer who loves coffee, music, poetry, software development, and anime ツ 🤍. 
