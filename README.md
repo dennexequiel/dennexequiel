@@ -62,7 +62,7 @@ If you want to contact me or have any questions, connect with me using the butto
 
 
 ## My Holopin Board
-[![@dennexequiel's Holopin board](https://holopin.io/api/user/board?user=dennexequiel)](https://holopin.io/@dennexequiel)
+[![@dennexequiel's Holopin board](https://holopin.me/dennexequiel)](https://holopin.io/@dennexequiel)
 
 
 
