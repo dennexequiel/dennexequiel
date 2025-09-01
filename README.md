@@ -17,10 +17,6 @@ Always building and learning. Open to conversations, ideas, and collaboration. L
 [![dennexequiel](https://img.shields.io/badge/Dennski%231077-Discord-5865F2?style=flat-square&logo=discord)](https://discord.com/users/542524926519803914)
 [![dennexequiel](https://img.shields.io/badge/%2Fdennexequiel-Trailblazer.me-%2317A0DB?style=flat-square&logo=salesforce)](https://trailblazer.me/id/dennexequiel)
 <br/><br/>
-## My Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dennexequiel&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=dennexequiel&theme=gruvbox)
-<br/><br/>
 ## My Holopin Badges
 Explore my digital badge collection! These represent achievements from different events and contributions to the developer community.
 
