@@ -12,7 +12,6 @@ My focus is simple: automate what can be automated, streamline what is clunky, a
 Always building and learning. Open to conversations, ideas, and collaboration. Let's connect.
 <br/><br/>
 ## Let's Connect
-[![dennexequiel@gmail.com](https://img.shields.io/badge/%2Fdennexequiel@gmail.com-Gmail-%23EA4335?style=flat-square&logo=gmail)](mailto:dennexequiel@gmail.com)
 [![dennexequiel](https://img.shields.io/badge/%2Fdennexequiel-LinkedIn-%230E76A8?style=flat-square&logo=linkedin)](https://linkedin.com/in/dennexequiel)
 [![dennexequiel](https://img.shields.io/badge/Dennski%231077-Discord-5865F2?style=flat-square&logo=discord)](https://discord.com/users/542524926519803914)
 [![dennexequiel](https://img.shields.io/badge/%2Fdennexequiel-Trailblazer.me-%2317A0DB?style=flat-square&logo=salesforce)](https://trailblazer.me/id/dennexequiel)
